@@ -16,3 +16,5 @@ Submit the code for review
 ### Note that the Best project will be rewarded with a certificate and some dollars 😊
 
 Note that the code will be updated everytime in class
+
+I was not able to proceeds with github pages because the owner of repository restricted to deploy
